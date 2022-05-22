@@ -10,6 +10,10 @@ I was annoyed that there wasn't a way to directly launch the DE1 App from an act
 
 I used Tasker and Tasker App Factory to create installable APKs that launch the DE1 App and the DE1 Cloud Update App. Just install these APK's and you'll have launchable apps in your App Drawer for both the DE1 app and the Cloud Update app. From there, make shortcuts to them on your home screen, use them in automations, etc. Note, this does not actually install either of these applications. You'll need to already have the de1plus folder in place for it to work.
 
+[DE1_App_Launcher.apk](DE1_App_Launcher.apk)
+
+[DE1_Cloud_Update_Launcher.apk](DE1_Cloud_Update_Launcher.apk)
+
 ## What It Looks Like
 
 Here's a quick video of what it looks like launching both apps from the App Drawer and then making shortcuts on the home screen. Your tablet may look a bit different than mine, I'm running LineageOS and I've installed Nova Launcher and customized things a bit.
