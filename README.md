@@ -14,6 +14,8 @@ I used Tasker and Tasker App Factory to create installable APKs that launch the 
 
 Here's a quick video of what it looks like launching both apps from the App Drawer and then making shortcuts on the home screen. Your tablet may look a bit different than mine, I'm running LineageOS and I've installed Nova Launcher and customized things a bit.
 
+https://user-images.githubusercontent.com/17832515/169674478-6d384e83-b2a4-49c3-b4e6-3e12f27c3957.mp4
+
 ## Make It Yourself
 
 The process was fairly simple if you don't trust using my APKs or just want to do it yourself. Just create a new Tasker task for both the DE1 App and the Cloud Update app. All the task needs to do is use the Browse URL task and point to the following paths.
